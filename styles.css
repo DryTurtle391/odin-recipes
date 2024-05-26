@@ -1,0 +1,11 @@
+.dark-blue {
+  background-color: #1f2937;
+}
+.header-container {
+  display: flex;
+  width: 200px;
+}
+.header-item {
+  width: 60px;
+  flex: 1;
+}
