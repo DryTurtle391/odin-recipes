@@ -3,9 +3,15 @@
 }
 .header-container {
   display: flex;
-  width: 200px;
+  height: 600px;
+  color: #e5e7eb;
+  font-size: 18px;
 }
 .header-item {
   width: 60px;
   flex: 1;
+}
+.header-item.first-item {
+  color: #f9faf8;
+  font-size: 24px;
 }
